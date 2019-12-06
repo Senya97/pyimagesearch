@@ -12,4 +12,4 @@ apertureSize = 3
 L2gradient = True
 
 # approx
-approx_value = 0.015
+approx_value = 0.01
